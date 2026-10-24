@@ -34,75 +34,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The custom generative AI model training and fine-tuning market is currently estimated at ~$3.1B to $3.8B (within the broader ~$60B+ generative AI industry), projected to surpass $20B by the early 2030s at an annual growth rate exceeding 30%. While upstream computing infrastructure and foundation model weights remain heavily concentrated among a handful of tech giants and frontier labs (winner-takes-most dynamics), the downstream fine-tuning, domain adaptation, and specialized training SaaS layer is highly fragmented and rapidly expanding with specialized vertical tooling.
 
 ## SaaS/Hosted Platforms
 
-- **[Adobe Firefly Custom Models](https://www.adobe.com/products/firefly.html)**  
-
-  Enterprise custom model training on Adobe Firefly for brand-safe, style-consistent image generation integrated with Creative Cloud workflows.
-
-
-
-- **[Scenario](https://www.scenario.com/)**  
-
-  Platform focused on training custom AI models for game assets, characters, and stylized content with strong creative tooling.
-
-
-
-- **[Photoroom API](https://www.photoroom.com/api)**  
-
-  API-first background removal and generative editing with custom model capabilities for product and e-commerce imagery.
-
-
-
-- **[Segmind](https://www.segmind.com/)**  
-
-  Serverless platform for running and fine-tuning open generative models with easy APIs and serverless infrastructure.
-
-
-
-- **[Bria AI](https://bria.ai/)**  
-
-  Responsible generative AI platform offering custom model training and licensed data for commercial image generation.
-
-
-
-- **[Asteroid AI](https://asteroid.ai/)**  
-
-  Specialized platform for training and deploying custom generative models with focus on controllable and high-quality outputs.
-
-
-
-- **[OctoAI](https://octo.ai/)**  
-
-  Infrastructure and fine-tuning services for running and customizing open generative models at scale.
-
-
-
-- **[Stability AI Fine-Tuning](https://stability.ai/)**  
-
-  Official fine-tuning and customization options around Stable Diffusion and related models from the Stability ecosystem.
-
-
-
-- **[LeMur AI](https://lemur.ai/)**  
-
-  Platform for custom generative model training and deployment tailored to creative and enterprise use cases.
-
-
-
-- **[Fal.ai Training](https://fal.ai/)**  
-
-  Fast, developer-friendly platform for fine-tuning and serving generative models with simple APIs and competitive pricing.
+| Platform | Description | Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Firefly Custom Models](https://www.adobe.com/products/firefly.html)** | Enterprise custom model training on Adobe Firefly for brand-safe, style-consistent image generation integrated with Creative Cloud workflows. | Market Cap: ~$100B / ARR: ~$25B | $9.99/mo (Firefly Standard plan with 2,000 monthly generative credits) | Free plan includes 25 monthly generative credits (or daily curated model generations) |
+| **[fal.ai Training](https://fal.ai/)** | Fast, developer-friendly platform for fine-tuning and serving generative models with simple APIs and competitive pricing. | Valuation: $4.5B (Series D) / ARR: ~$200M | Pay-as-you-go starting at ~$0.001/sec compute; Starter subscription tier at $50/mo | Free browser sandbox testing; promotional startup/research grants from $1,000 to $5,000 in credits upon application |
+| **[Stability AI Fine-Tuning](https://stability.ai/)** | Official fine-tuning and customization options around Stable Diffusion and related models from the Stability ecosystem. | Valuation: ~$1.0B - $1.8B / ARR: ~$190M | Starting credit top-up pack at $10.00; Commercial Creator tiers from $20/mo | Free for non-commercial & personal research (<$1M annual revenue); 25 free API credits (~$0.25) on signup |
+| **[AssemblyAI (LeMur AI)](https://lemur.ai/)** | Platform for custom generative model processing and LLM reasoning directly on speech/audio transcripts tailored to enterprise workflows. | Valuation: ~$600M (Series C) / ARR: ~$30M+ | Pay-as-you-go starting at $0.0003/token for LLM reasoning ($0.15/hr audio transcription) | $50 in free credit allowance upon signup without credit card |
+| **[Photoroom API](https://www.photoroom.com/api)** | API-first background removal and generative editing with custom model capabilities for product and e-commerce imagery. | Valuation: $500M (Series B) / ARR: ~$50M - $94M | $20/mo (Basic plan starting quota of 1,000 image edits) | Free Sandbox mode with watermarked outputs; up to 60,000 free images for early startups via Startup Plan |
+| **[OctoAI](https://octo.ai/)** | Infrastructure and fine-tuning services for running and customizing open generative models at scale (acquired by NVIDIA). | Valuation: $250M (Acquired by NVIDIA) / ARR: ~$5M | Integrated into NVIDIA NIM microservices; historical standalone pay-as-you-go started at $10 top-up | Historical $10 developer trial credits; free prototyping available via NVIDIA NIM (build.nvidia.com) |
+| **[Bria AI](https://bria.ai/)** | Responsible generative AI platform offering custom model training and licensed data for commercial image generation. | Valuation: ~$150M - $250M (Series B) / ARR: ~$10M | Pay-as-you-go starting at $0.08 per image action / startup tier at $700/mo | 1,000 free API calls / actions on developer signup without credit card |
+| **[Scenario](https://www.scenario.com/)** | Platform focused on training custom AI models for game assets, characters, and stylized content with strong creative tooling. | Valuation: ~$30M - $50M (Total funding: $6M) | $15/mo (Starter plan with 1,500 compute units) | 50 daily compute credits for personal evaluation use (non-commercial, standard queue) |
+| **[Asteroid AI](https://asteroid.ai/)** | Specialized platform for training and deploying custom generative models and browser/desktop AI workflows. | Valuation: ~$10M - $20M (Seed / YC W25, Total funding: ~$750K) | $300/mo (Startup tier with $330 in credits, BAA, and 25 concurrent environments) | Self-serve free plan with Astro workflow builder access and pay-as-you-go sandbox |
+| **[Segmind](https://www.segmind.com/)** | Serverless platform for running and fine-tuning open generative models with easy APIs and serverless infrastructure. | Valuation: ~$5M - $10M (Total funding: $1.16M) | Pay-as-you-go starting at $10.00 minimum credit top-up (~$0.0003/sec compute) | Flexible Free plan includes starting credits upon signup to prototype workflows |
 
 
 
