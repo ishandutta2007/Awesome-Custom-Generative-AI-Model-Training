@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training?color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Custom-Generative-AI-Model-Training/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -23,7 +23,7 @@
 
 Welcome to the definitive directory for **Custom Generative AI Model Training**. In modern artificial intelligence engineering, off-the-shelf foundation models rarely satisfy enterprise-grade requirements for domain knowledge, strict brand consistency, style adherence, safety guardrails, and deterministic outputs. This repository tracks both the premier **commercial SaaS infrastructure** and cutting-edge **open-source libraries** enabling organizations to fine-tune image, video, multi-modal, and large language models (LLMs) on private datasets.
 
-Whether you are implementing parameter-efficient fine-tuning (PEFT/LoRA), direct preference optimization (DPO/RLHF), full parameter training, or specialized diffusion style transfer, this curated guide provides actionable insights into market dynamics, pricing, free tiers, and GitHub stars.
+Whether you are implementing parameter-efficient fine-tuning (PEFT/LoRA), direct preference optimization (DPO/RLHF), full parameter training, or specialized diffusion style transfer, this curated guide provides actionable insights into market dynamics, pricing, free tiers, and GitHub_Stars.
 
 ---
 
@@ -69,57 +69,57 @@ The following SaaS platforms provide managed compute, zero-setup training pipeli
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source fine-tuning gives developers full ownership over weights, datasets, and hyperparameters without vendor lock-in. Below are the leading open-source libraries and frameworks, **sorted in descending order by GitHub stargazers**. Each repository includes a clickable star badge linking directly to its stargazers page.
+Open-source fine-tuning gives developers full ownership over weights, datasets, and hyperparameters without vendor lock-in. Below are the leading open-source libraries and frameworks, **sorted in descending order by GitHub stargazers**. Each repository includes a clickable Stars_Badge linking directly to its stargazers page.
 
-1. **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
+1. **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
    The foundational machine learning library providing state-of-the-art implementations of tens of thousands of pretrained models for text, vision, and audio, complete with native PyTorch `Trainer` fine-tuning APIs.
 
-2. **[Unsloth](https://github.com/unslothai/unsloth)** [![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social&color=white)](https://github.com/unslothai/unsloth/stargazers)  
+2. **[Unsloth](https://github.com/unslothai/unsloth)** [![GitHub_Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social&color=white)](https://github.com/unslothai/unsloth/stargazers)  
    Ultra-fast, memory-efficient fine-tuning framework delivering 2x to 5x speedups and 70% to 80% VRAM memory reduction for LoRA, QLoRA, and RL methods on single-GPU workstations and consumer graphics cards.
 
-3. **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![GitHub stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social&color=white)](https://github.com/hiyouga/LLaMA-Factory/stargazers)  
+3. **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![GitHub_Stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social&color=white)](https://github.com/hiyouga/LLaMA-Factory/stargazers)  
    Unified, modular fine-tuning suite supporting 100+ LLMs and VLMs. Supports full parameter fine-tuning, LoRA, QLoRA, GaLore, Badam, DPO, PPO, KTO, and ORPO, bundled with the no-code `LLaMA Board` Web UI.
 
-4. **[DeepSpeed](https://github.com/microsoft/DeepSpeed)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social&color=white)](https://github.com/microsoft/DeepSpeed/stargazers)  
+4. **[DeepSpeed](https://github.com/microsoft/DeepSpeed)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social&color=white)](https://github.com/microsoft/DeepSpeed/stargazers)  
    Microsoft's high-performance deep learning optimization library featuring ZeRO (Zero Redundancy Optimizer), 3D parallelism, and MoE training optimizations powering massive distributed training and fine-tuning.
 
-5. **[Colossal-AI](https://github.com/hpcaitech/ColossalAI)** [![GitHub stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social&color=white)](https://github.com/hpcaitech/ColossalAI/stargazers)  
+5. **[Colossal-AI](https://github.com/hpcaitech/ColossalAI)** [![GitHub_Stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social&color=white)](https://github.com/hpcaitech/ColossalAI/stargazers)  
    Unified deep learning system for large AI models with automated multidimensional parallelism, efficient memory offloading, and low-cost fine-tuning workflows for multi-billion parameter models.
 
-6. **[FastChat](https://github.com/lm-sys/FastChat)** [![GitHub stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers)  
+6. **[FastChat](https://github.com/lm-sys/FastChat)** [![GitHub_Stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers)  
    Open platform for training, serving, and evaluating LLM-based chatbots and multi-turn conversational agents, famously powering the LMSYS Chatbot Arena and standard Vicuna fine-tuning pipelines.
 
-7. **[Diffusers + Finetrainers](https://github.com/huggingface/diffusers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
+7. **[Diffusers + Finetrainers](https://github.com/huggingface/diffusers)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/diffusers?style=social&color=white)](https://github.com/huggingface/diffusers/stargazers)  
    The de facto standard library for state-of-the-art diffusion models across image, audio, and video modalities. Features production-ready training scripts for DreamBooth, LoRA, ControlNet, Flux, and SDXL.
 
-8. **[FlashAttention](https://github.com/Dao-AILab/flash-attention)** [![GitHub stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social&color=white)](https://github.com/Dao-AILab/flash-attention/stargazers)  
+8. **[FlashAttention](https://github.com/Dao-AILab/flash-attention)** [![GitHub_Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=social&color=white)](https://github.com/Dao-AILab/flash-attention/stargazers)  
    Fast and memory-efficient exact attention algorithm with IO-awareness, serving as the essential underlying hardware accelerator layer across virtually every modern transformer fine-tuning framework.
 
-9. **[Hugging Face PEFT](https://github.com/huggingface/peft)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/peft?style=social&color=white)](https://github.com/huggingface/peft/stargazers)  
+9. **[Hugging Face PEFT](https://github.com/huggingface/peft)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/peft?style=social&color=white)](https://github.com/huggingface/peft/stargazers)  
    Parameter-Efficient Fine-Tuning library supporting LoRA, QLoRA, Prefix Tuning, P-Tuning, IA3, and AdaLoRA. Seamlessly integrates with PyTorch and Transformers to train massive models on minimal VRAM.
 
-10. **[Hugging Face TRL](https://github.com/huggingface/trl)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=social&color=white)](https://github.com/huggingface/trl/stargazers)  
+10. **[Hugging Face TRL](https://github.com/huggingface/trl)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/trl?style=social&color=white)](https://github.com/huggingface/trl/stargazers)  
     Transformer Reinforcement Learning library providing tools for full post-training: Supervised Fine-Tuning (SFT), Reward Modeling, Direct Preference Optimization (DPO), PPO, and Group Relative Policy Optimization (GRPO).
 
-11. **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social&color=white)](https://github.com/NVIDIA/Megatron-LM/stargazers)  
+11. **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?style=social&color=white)](https://github.com/NVIDIA/Megatron-LM/stargazers)  
     NVIDIA's research framework for training transformer language models at scale using tensor, pipeline, sequence, and expert parallelism across massive supercomputing clusters.
 
-12. **[LitGPT](https://github.com/Lightning-AI/litgpt)** [![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social&color=white)](https://github.com/Lightning-AI/litgpt/stargazers)  
+12. **[LitGPT](https://github.com/Lightning-AI/litgpt)** [![GitHub_Stars](https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social&color=white)](https://github.com/Lightning-AI/litgpt/stargazers)  
     Hackable, 100% clean-room CLI and Python library from Lightning AI for pretraining, fine-tuning (LoRA, QLoRA, full), and deploying 20+ open LLMs without deep dependency chains.
 
-13. **[Kohya_ss GUI](https://github.com/bmaltais/kohya_ss)** [![GitHub stars](https://img.shields.io/github/stars/bmaltais/kohya_ss?style=social&color=white)](https://github.com/bmaltais/kohya_ss/stargazers)  
+13. **[Kohya_ss GUI](https://github.com/bmaltais/kohya_ss)** [![GitHub_Stars](https://img.shields.io/github/stars/bmaltais/kohya_ss?style=social&color=white)](https://github.com/bmaltais/kohya_ss/stargazers)  
     The industry-standard GUI and training suite for fine-tuning Stable Diffusion, SDXL, and Flux models via LoRA, LyCORIS, DreamBooth, and textual inversion for visual artists and creative teams.
 
-14. **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** [![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social&color=white)](https://github.com/axolotl-ai-cloud/axolotl/stargazers)  
+14. **[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)** [![GitHub_Stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=social&color=white)](https://github.com/axolotl-ai-cloud/axolotl/stargazers)  
     Production-grade, YAML-configured fine-tuning harness for LLMs. Offers multi-GPU DeepSpeed/FSDP recipes, sample-packing, multipack dataset loaders, and reproducible pipelines for SFT and DPO.
 
-15. **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social&color=white)](https://github.com/huggingface/accelerate/stargazers)  
+15. **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/accelerate?style=social&color=white)](https://github.com/huggingface/accelerate/stargazers)  
     Streamlined orchestration library that allows standard PyTorch code to run across multi-GPU, multi-node, mixed precision (fp16, bf16, fp8), and DeepSpeed/FSDP with zero code rewrites.
 
-16. **[Torchtune](https://github.com/pytorch/torchtune)** [![GitHub stars](https://img.shields.io/github/stars/pytorch/torchtune?style=social&color=white)](https://github.com/pytorch/torchtune/stargazers)  
+16. **[Torchtune](https://github.com/pytorch/torchtune)** [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/torchtune?style=social&color=white)](https://github.com/pytorch/torchtune/stargazers)  
     PyTorch-native library for easily authoring, fine-tuning, and experimenting with LLMs. Features modular building blocks, recipe-based CLI workflows, and tight integration with the PyTorch 2.x ecosystem.
 
-17. **[SimpleTuner](https://github.com/bghira/SimpleTuner)** [![GitHub stars](https://img.shields.io/github/stars/bghira/SimpleTuner?style=social&color=white)](https://github.com/bghira/SimpleTuner/stargazers)  
+17. **[SimpleTuner](https://github.com/bghira/SimpleTuner)** [![GitHub_Stars](https://img.shields.io/github/stars/bghira/SimpleTuner?style=social&color=white)](https://github.com/bghira/SimpleTuner/stargazers)  
     General-purpose, high-performance diffusion fine-tuning tool supporting modern architectures including Flux.1, SDXL, and Stable Diffusion with DeepSpeed ZeRO-stage 3, multi-aspect ratio bucketing, and validation tracking.
 
 ---
@@ -168,3 +168,12 @@ Thank you to all contributors, researchers, and community members pushing open g
 
 - This repository is a **community-curated index** created for educational, research, and informational purposes. Mention of specific platforms does not constitute an endorsement.
 - Fine-tuning generative AI models involves compute consumption, legal licensing compliance, dataset provenance checks, and ethical safety boundaries. Always evaluate model licenses (e.g. Apache-2.0, OpenRAIL, commercial terms) and applicable regulations before deployment.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Custom-Generative-AI-Model-Training&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Custom-Generative-AI-Model-Training_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Custom-Generative-AI-Model-Training_growth.svg">
+  </picture>
+</a>
